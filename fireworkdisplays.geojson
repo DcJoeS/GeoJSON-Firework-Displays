@@ -1,0 +1,42 @@
+{
+  "name": "fireworks",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.74575,
+          -93.12246
+        ]
+      },
+      "properties": {
+        "Event": "Leprechaun Days",
+        "Date": "July 31, 2016",
+        "City": "Rosemount",
+        "State": "MN",
+        "Lat": "44.74575",
+        "Long": "-93.12246"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.744547,
+          -93.184591
+        ]
+      },
+      "properties": {
+        "Event": "Freedom Days",
+        "Date": "July 4, 2016",
+        "City": "Apple Valley",
+        "State": "MN",
+        "Lat": "44.744547",
+        "Long": "-93.184591"
+      }
+    }
+  ]
+}

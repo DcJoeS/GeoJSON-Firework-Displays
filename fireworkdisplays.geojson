@@ -6,7 +6,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [44.74575, -93.12246]
+        "coordinates": [-93.12246 ,44.74575]
       },
       "properties": {
         "Event": "Leprechaun Days",
@@ -21,7 +21,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [44.744547, -93.184591]
+        "coordinates": [ -93.184591, 44.744547]
       },
       "properties": {
         "Event": "Freedom Days",

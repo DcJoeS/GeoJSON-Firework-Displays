@@ -106,6 +106,21 @@
         "Lat": "44.664261",
         "Long": "-93.255879"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -93.255879, 44.664261]
+      },
+      "properties": {
+        "Event": "Light It Up Maplewood",
+        "Date": "July 4, 2016",
+        "City": "Maplewood",
+        "State": "MN",
+        "Lat": "45.023940",
+        "Long": "-93.032440"
+      }
     }
   ]
 }

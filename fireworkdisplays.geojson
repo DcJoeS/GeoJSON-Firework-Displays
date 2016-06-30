@@ -36,7 +36,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [ -93.184591, 44.744547]
+        "coordinates": [ -93.173432, 44.840090]
       },
       "properties": {
         "Event": "July 4TH Funfest",
@@ -51,7 +51,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [ -93.184591, 44.744547]
+        "coordinates": [ -93.336228, 44.884481]
       },
       "properties": {
         "Event": "Independence Day",
@@ -66,7 +66,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [ -93.184591, 44.744547]
+        "coordinates": [ -93.563385, 44.905449]
       },
       "properties": {
         "Event": "Independence Day",
@@ -81,7 +81,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [ -93.184591, 44.744547]
+        "coordinates": [ -93.980649, 44.279547]
       },
       "properties": {
         "Event": "Independence Day",
@@ -96,7 +96,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [ -93.184591, 44.744547]
+        "coordinates": [ -93.255879, 44.664261]
       },
       "properties": {
         "Event": "Pan-O-Prog",

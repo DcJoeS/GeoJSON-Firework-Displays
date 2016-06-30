@@ -121,6 +121,141 @@
         "Lat": "45.023940",
         "Long": "-93.032440"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -93.130465, 44.878895]
+      },
+      "properties": {
+        "Event": "Independence Day",
+        "Date": "July 4, 2016",
+        "City": "Mendota Heights",
+        "State": "MN",
+        "Lat": "44.878895",
+        "Long": "-93.130465"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -93.25517, 44.984238]
+      },
+      "properties": {
+        "Event": "Red, White and Boom",
+        "Date": "July 4, 2016",
+        "City": "Minneapolis",
+        "State": "MN",
+        "Lat": "44.984238",
+        "Long": "-93.255173"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -93.471383, 44.732300]
+      },
+      "properties": {
+        "Event": "Mystic Lake's Rock and Rockets Fourth of July",
+        "Date": "July 4, 2016",
+        "City": "Prior Lake",
+        "State": "MN",
+        "Lat": "44.732300",
+        "Long": "-93.471383"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -93.26651, 44.888295]
+      },
+      "properties": {
+        "Event": "Independence Day",
+        "Date": "July 4, 2016",
+        "City": "Richfield",
+        "State": "MN",
+        "Lat": "44.888295",
+        "Long": "-93.266510"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -93.141316, 45.018283]
+      },
+      "properties": {
+        "Event": "Party in the Park",
+        "Date": "July 4, 2016",
+        "City": "Roseville",
+        "State": "MN",
+        "Lat": "45.018283",
+        "Long": "-93.141316"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -93.084241, 44.950920]
+      },
+      "properties": {
+        "Event": "St Paul Saints Baseball",
+        "Date": "July 4, 2016",
+        "City": "St Paul",
+        "State": "MN",
+        "Lat": "44.950920",
+        "Long": "-93.084241"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -92.803883, 45.058466]
+      },
+      "properties": {
+        "Event": "Light a Spark",
+        "Date": "July 4, 2016",
+        "City": "Stillwater",
+        "State": "MN",
+        "Lat": "45.058466",
+        "Long": "-92.803883"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -93.000970, 45.092026]
+      },
+      "properties": {
+        "Event": "Manitou Days",
+        "Date": "July 4, 2016",
+        "City": "White Bear Lake",
+        "State": "MN",
+        "Lat": "45.092026",
+        "Long": "-93.000970"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -92.937440, 44.888756]
+      },
+      "properties": {
+        "Event": "Independence Day",
+        "Date": "July 4, 2016",
+        "City": "Woodbury",
+        "State": "MN",
+        "Lat": "44.888756",
+        "Long": "-92.937440"
+      }
     }
   ]
 }

@@ -81,14 +81,14 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [ -93.980649, 44.279547]
+        "coordinates": [ -93.980649, 45.279547]
       },
       "properties": {
         "Event": "Independence Day",
         "Date": "July 4, 2016",
         "City": "Forest Lake",
         "State": "MN",
-        "Lat": "44.279547",
+        "Lat": "45.279547",
         "Long": "-93.980649"
       }
     },

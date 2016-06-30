@@ -31,6 +31,81 @@
         "Lat": "44.744547",
         "Long": "-93.184591"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -93.184591, 44.744547]
+      },
+      "properties": {
+        "Event": "July 4TH Funfest",
+        "Date": "July 4, 2016",
+        "City": "Eagan",
+        "State": "MN",
+        "Lat": "44.840090",
+        "Long": "-93.173432"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -93.184591, 44.744547]
+      },
+      "properties": {
+        "Event": "Independence Day",
+        "Date": "July 4, 2016",
+        "City": "Edina",
+        "State": "MN",
+        "Lat": "44.884481",
+        "Long": "-93.336228"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -93.184591, 44.744547]
+      },
+      "properties": {
+        "Event": "Independence Day",
+        "Date": "July 4, 2016",
+        "City": "Excelsior",
+        "State": "MN",
+        "Lat": "44.905449",
+        "Long": "-93.563385"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -93.184591, 44.744547]
+      },
+      "properties": {
+        "Event": "Independence Day",
+        "Date": "July 4, 2016",
+        "City": "Forest Lake",
+        "State": "MN",
+        "Lat": "44.279547",
+        "Long": "-93.980649"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -93.184591, 44.744547]
+      },
+      "properties": {
+        "Event": "Pan-O-Prog",
+        "Date": "July 4, 2016",
+        "City": "Lakeville",
+        "State": "MN",
+        "Lat": "44.664261",
+        "Long": "-93.255879"
+      }
     }
   ]
 }
